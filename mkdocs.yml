@@ -1,0 +1,108 @@
+site_name: Rhett Rautsaw
+site_url: https://rhettrautsaw.github.io
+site_author: Rhett Rautsaw
+site_description: Rhett Rautsaw personal website
+
+# Repository
+repo_name: RhettRautsaw/rhettrautsaw.github.io
+repo_url: https://github.com/RhettRautsaw/rhettrautsaw.github.io
+
+# Theme
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+  # Additional configuration
+
+extra:
+  #status:
+  #  new: Recently added
+  #  deprecated: Deprecated
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RhettRautsaw
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-8229-5951
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=vL483VkAAAAJ&gmla=AJsN-F7Izh_qIQwn43QKo2GT_YHwioeGbPQ7qg57Ia1g9HfVDx8T6ub5VhdYUUNEsU4ii6kfbxgI4uolmkmWj5QC6R0NkWqaks27lg4r0Wnrx5AeShVy_t4ZmhbpQj_k_GntCqWCD_7T
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/reptilerhett.bsky.social
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rhett-rautsaw-0bb710214/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@rhettrautsaw
+    - icon: material/email
+      link: mailto:rrautsaw@pacificbiosciences.com
+
+extra_css:
+  - styles/custom.css
+  - styles/neoteroi-mkdocs-v1.1.3.css
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+
+extra_javascript:
+  - https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js
+  - https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
+  - styles/gallery-init.js
+  - styles/lazy-research-video.js
+
+markdown_extensions:
+  - neoteroi.projects
+  - neoteroi.cards
+  - neoteroi.timeline
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Research: research/index.md
+  - Publications: publications/index.md
+  - SciComm: scicomm/index.md
+  - Software/Apps: software/index.md
+  - Tutorials:
+      - Basics of Bioinformatics: tutorials/bioinformatics.md
+      - SLURM Cheatsheet: tutorials/hpc.md
+      - PacBio Genome Assembly: tutorials/pacbio_genome_assembly.md
+  - Blog:
+    - blog/index.md
+  - Other: people/index.md
+  - CV: cv/Rautsaw_CV.pdf
+
+plugins:
+  - search
+  - blog
+  - macros
+  - table-reader

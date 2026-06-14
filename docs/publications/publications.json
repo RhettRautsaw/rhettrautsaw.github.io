@@ -1,0 +1,359 @@
+[
+  {
+    "number": 34,
+    "year": 2026,
+    "badges": [
+      "cover article"
+    ],
+    "citation": "Margres MJ, Hirst SR, Gallinson DG, **Rautsaw RM**, McDonald PJ, Guedouar EG, Nystrom GS, Hogan MP, Ellsworth SA, Wray KP, Rokyta DR. 2026. Truncated life history underlies rapid local adaptation in island rattlesnake venom expression. *Genome Biology and Evolution* 18(6). DOI: 10.1093/gbe/evag131",
+    "pdf": "peer_review/2026-06_Margres_GBE.pdf",
+    "doi": "10.1093/gbe/evag131",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/gbe/evag131\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/gbe/evag131\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 33,
+    "year": 2026,
+    "badges": [],
+    "citation": "Fowler JH, Rosales-Garcia RA, **Rautsaw RM**, Hogan MP, Hofmann EP, Mason AJ, Nagesan R, Borja M, Herrera L, Castaneda-Gaytan G, Davis Rabosky AR, Rokyta DR, Parkinson CL. 2026. Inter- and intraspecific venom variation in the reclusive rear-fanged Black-Striped Snakes (*Coniophanes*). *Toxins* 18 (108). DOI: 10.3390/toxins18020108",
+    "pdf": "peer_review/2026-02_Fowler_Toxins.pdf",
+    "doi": "10.3390/toxins18020108",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.3390/toxins18020108\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.3390/toxins18020108\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 32,
+    "year": 2026,
+    "badges": [],
+    "citation": "Buontempo MJ, Lavretsky P, **Rautsaw RM**, McFarland LM, Rosales-Garcia RA, Strickland JL, Borja M, Jones J, Chaparro RR, Bryson RW Jr, Parkinson CL, Harvey MG. 2026. Evolutionary history of ridge-nosed rattlesnakes (*Crotalus willardi*): a specialized and diverse montane species. *Molecular Phylogenetics and Evolution* 216:108522. DOI: 10.1016/j.ympev.2025.108522",
+    "pdf": "peer_review/2026-01_Buontempo_MPE.pdf",
+    "doi": "10.1016/j.ympev.2025.108522",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1016/j.ympev.2025.108522\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1016/j.ympev.2025.108522\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 31,
+    "year": 2025,
+    "badges": [
+      "cover article",
+      "editors choice"
+    ],
+    "citation": "Hirst SR, Beer MA, VanHorn CM, **Rautsaw RM**, Franz-Chavez H, Rodriguez-Lopez B, Chaparro RR, Rosales-Garcia RA, Vasquez-Cruz V, Kelly-Hernandez A, Borja M, Parkinson CL, Margres MJ. 2025. Island biogeography and competition drive rapid venom complexity evolution across rattlesnakes. *Evolution* 79(8)1419-1432. DOI: 10.1093/evolut/qpaf074",
+    "pdf": "peer_review/2025-04_Hirst_Evolution.pdf",
+    "doi": "10.1093/evolut/qpaf074",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/evolut/qpaf074\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/evolut/qpaf074\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 30,
+    "year": 2025,
+    "badges": [
+      "cover article"
+    ],
+    "citation": "Heptinstall TC, Rosales-Garcia RA, **Rautsaw RM**, Myers EA, Holding ML, Mason AJ, Hofmann EP, Schramer TD, Hogan MP, Borja M, Castaneda-Gaytan G, Feldman CR, Rokyta DR, Parkinson CL. 2025. Dietary breadth predicts toxin expression complexity in the venoms of North American gartersnakes. *Integrative Organismal Biology* 7(1):obaf003. DOI: 10.1093/iob/obaf003",
+    "pdf": "peer_review/2025-02_Heptinstall_IntOrgBio.pdf",
+    "doi": "10.1093/iob/obaf003",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/iob/obaf003\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/iob/obaf003\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 29,
+    "year": 2024,
+    "badges": [],
+    "citation": "Hirst SR, **Rautsaw RM**, VanHorn CM, Beer MA, McDonald PJ, Rosales-Garcia RA, Rodriguez-Lopez B, Rubio-Rincon A, Franz-Chavez H, Vasquez-Cruz V, Borja M, Parkinson CL, Margres MJ. 2024. Where the 'ruber' meets the road: using the genome of the red diamond rattlesnake to unravel the evolutionary processes driving venom evolution. *Genome Biology and Evolution* 16(9):evae198. DOI: 10.1093/gbe/evae198",
+    "pdf": "peer_review/2024-09_Hirst_GBE.pdf",
+    "doi": "10.1093/gbe/evae198",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/gbe/evae198\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/gbe/evae198\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 28,
+    "year": 2024,
+    "badges": [],
+    "citation": "Beer MA, Trumbo DR, **Rautsaw RM**, Kozakiewicz CP, Epstein B, Hohenlohe PA, Alford RA, Schwarzkopf L, Storfer A. 2024. Spatial variation in genomic signatures of local adaptation during the cane toad invasion of Australia. *Molecular Ecology* 33(16):e17464. DOI: 10.1111/mec.17464",
+    "pdf": "peer_review/2024-07_Beer_MolEcol.pdf",
+    "doi": "10.1111/mec.17464",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1111/mec.17464\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1111/mec.17464\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 27,
+    "year": 2024,
+    "badges": [],
+    "citation": "Ellsworth SA, **Rautsaw RM**, Ward MJ, Holding ML, Rokyta DR. 2024. Selection across the three-dimensional structure of venom proteins from North American scolopendromorph centipedes. *Journal of Molecular Evolution* 92(4):505-524. DOI: 10.1007/s00239-024-10191-y",
+    "pdf": "peer_review/2024-07_Ellsworth_JME.pdf",
+    "doi": "10.1007/s00239-024-10191-y",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1007/s00239-024-10191-y\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1007/s00239-024-10191-y\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 26,
+    "year": 2024,
+    "badges": [],
+    "citation": "Myers EA, **Rautsaw RM**, Borja M, Jones J, Grunwald CI, Holding ML, Grazziotin FG, Parkinson CL. 2024. Phylogenomic discordance is driven by widespread introgression and incomplete lineage sorting during rapid species diversification within rattlesnakes (*Viperidae: Crotalus* and *Sistrurus*). *Systematic Biology* 73(4):722-741. DOI: 10.1093/sysbio/syae018",
+    "pdf": "peer_review/2024-05_Myers_SysBio.pdf",
+    "doi": "10.1093/sysbio/syae018",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/sysbio/syae018\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/sysbio/syae018\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 25,
+    "year": 2024,
+    "badges": [],
+    "citation": "Heptinstall TC, Rosales-Garcia RA, **Rautsaw RM**, Hofmann EP, de Queiroz A, Canseco-Marquez L, Parkinson CL. 2024. Size doesn't matter: body size is not linked to diet specialization in garter snakes (*Squamata: Natricidae: Thamnophis*). *Journal of Herpetology* 58(2):118-880. DOI: 10.1670/23-048",
+    "pdf": "peer_review/2024-06_Heptinstall_JHerp.pdf",
+    "doi": "10.1670/23-048",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1670/23-048\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1670/23-048\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 24,
+    "year": 2024,
+    "badges": [],
+    "citation": "Hogan MP, Holding ML, Nystrom GS, Colston TJ, Bartlett DA, Mason AJ, Ellsworth SA, **Rautsaw RM**, Lawrence KC, Strickland JL, He B, Fraser P, Margres MJ, Gilbert DM, Gibbs HL, Parkinson CL, Rokyta DR. 2024. The genetic regulatory architecture and epigenomic basis for age-related changes in rattlesnake venom. *PNAS* 121(16):e2313440121. DOI: 10.1073/pnas.2313440121",
+    "pdf": "peer_review/2024-04_Hogan_PNAS.pdf",
+    "doi": "10.1073/pnas.2313440121",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1073/pnas.2313440121\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1073/pnas.2313440121\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 23,
+    "year": 2024,
+    "badges": [],
+    "citation": "Gallinson DG, Kozakiewicz CP, **Rautsaw RM**, Beer MA, Ruiz-Aravena M, Comte S, Hamilton DG, Kerlin DH, McCallum HI, Hamede R, Jones ME, Storfer A, McMinds R, Margres MJ. 2024. Intergenomic signatures of coevolution between Tasmanian devils and an infectious cancer. *PNAS* 121(12):e2307780121. DOI: 10.1073/pnas.2307780121",
+    "pdf": "peer_review/2024-03_Gallinson_PNAS.pdf",
+    "doi": "10.1073/pnas.2307780121",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1073/pnas.2307780121\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1073/pnas.2307780121\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 22,
+    "year": 2023,
+    "badges": [],
+    "citation": "Heptinstall TC, Strickland JL, Rosales-Garcia RA, **Rautsaw RM**, Simpson CL, Nystrom GS, Ellsworth SA, Hogan MP, Borja M, Campos PF, Grazziotin FG, Rokyta DR, Junqueira-de-Azevedo ILM, Parkinson CL. 2023. Venom phenotype conservation suggests integrated specialization in a lizard-eating snake. *Toxicon* 229:107135. DOI: 10.1016/j.toxicon.2023.107135",
+    "pdf": "peer_review/2023-06_Heptinstall_Toxicon.pdf",
+    "doi": "10.1016/j.toxicon.2023.107135",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1016/j.toxicon.2023.107135\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1016/j.toxicon.2023.107135\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 21,
+    "year": 2023,
+    "badges": [],
+    "citation": "Rosales-Garcia RA, **Rautsaw RM**, Hofmann EP, Grunwald CI, Franz-Chavez H, Ahumada-Carrillo IT, Ramirez-Chaparro R, de la Torre-Loranca MA, Strickland JL, Mason AJ, Holding ML, Borja M, Castaneda-Gaytan G, Myers EA, Sasa M, Rokyta DR, Parkinson CL. 2023. Sequence divergence in venom genes within and between montane pitviper species is driven by mutation-drift equilibrium. *Journal of Molecular Evolution*. DOI: 10.1007/s00239-023-10115-2",
+    "pdf": "peer_review/2023-06_Rosales-Garcia_JME.pdf",
+    "doi": "10.1007/s00239-023-10115-2",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1007/s00239-023-10115-2\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1007/s00239-023-10115-2\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 20,
+    "year": 2022,
+    "badges": [],
+    "citation": "de Oliveira-Dalland LG, Alencar LRV, Tambosi LR, Carrasco P, **Rautsaw RM**, Sigala-Rodriguez J, Scrocchi G, Martins M. 2022. Conservation gaps for Neotropical vipers: mismatches between protected areas, species richness, and evolutionary distinctiveness. *Biological Conservation* 275:109750. DOI: 10.1016/j.biocon.2022.109750",
+    "pdf": "peer_review/2022-10_Oliveira-Dalland_BioCons.pdf",
+    "doi": "10.1016/j.biocon.2022.109750",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1016/j.biocon.2022.109750\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1016/j.biocon.2022.109750\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 19,
+    "year": 2022,
+    "badges": [],
+    "citation": "Holding ML, Trevine VC, Zinenko O, Strickland JL, **Rautsaw RM**, Mason AJ, Hogan MP, Parkinson CL, Grazziotin FG, Santana SE, Davis MA, Rokyta DR. 2022. Evolutionary allometry and ecological correlates of fang length evolution in vipers. *Proceedings of the Royal Society B* 289(1982). DOI: 10.1098/rspb.2022.1132",
+    "pdf": "peer_review/2022-09_Holding_RSPB.pdf",
+    "doi": "10.1098/rspb.2022.1132",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1098/rspb.2022.1132\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1098/rspb.2022.1132\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 18,
+    "year": 2022,
+    "badges": [
+      "cover article"
+    ],
+    "citation": "Myers EA, Strickland JL, **Rautsaw RM**, Mason AJ, Schramer TD, Nystrom GS, Hogan MP, Yooseph S, Rokyta DR, Parkinson CL. 2022. De novo genome assembly highlights the role of lineage-specific duplications in the evolution of the venom in Fea's viper. *Genome Biology and Evolution*. DOI: 10.1093/gbe/evac082",
+    "pdf": "peer_review/2022-06_Myers_GBE.pdf",
+    "doi": "10.1093/gbe/evac082",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/gbe/evac082\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/gbe/evac082\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 17,
+    "year": 2022,
+    "badges": [],
+    "citation": "Mason AJ, Holding ML, **Rautsaw RM**, Rokyta DR, Parkinson CL, Gibbs HL. 2022. Venom gene sequence diversity and expression jointly shape diet adaptation in pitvipers. *Molecular Biology and Evolution*. DOI: 10.1093/molbev/msac082",
+    "pdf": "peer_review/2022-04_Mason_MBE.pdf",
+    "doi": "10.1093/molbev/msac082",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/molbev/msac082\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/molbev/msac082\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 16,
+    "year": 2022,
+    "badges": [],
+    "citation": "**Rautsaw RM**, Jiminez-Velazquez G, Hofmann EP, Alencar LRV, Grunwald CI, Martins M, Carrasco P, Doan TM, Parkinson CL. 2022. VenomMaps: updated distribution maps and niche models for New World pitvipers (*Viperidae: Crotalinae*). *Scientific Data* 9:232. DOI: 10.1038/s41597-022-01323-4",
+    "pdf": "peer_review/2022-05_Rautsaw_SciData.pdf",
+    "doi": "10.1038/s41597-022-01323-4",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1038/s41597-022-01323-4\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41597-022-01323-4\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 15,
+    "year": 2021,
+    "badges": [],
+    "citation": "Schramer TD, **Rautsaw RM**, Bayona-Serrano JD, Nystrom GS, West TR, Ortiz-Medina JA, Sabido-Alpuche B, Meneses-Millan M, Borja M, Junqueira-de-Azevedo ILM, Rokyta DR, Parkinson CL. 2022. An integrative view of the toxic potential of *Conophis lineatus* (*Dipsadidae: Xenodontinae*), a medically relevant rear-fanged snake. *Toxicon* 205:38-52. DOI: 10.1016/j.toxicon.2021.11.009",
+    "pdf": "peer_review/2021-11_Schramer_Toxicon.pdf",
+    "doi": "10.1016/j.toxicon.2021.11.009",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1016/j.toxicon.2021.11.009\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1016/j.toxicon.2021.11.009\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 14,
+    "year": 2021,
+    "badges": [],
+    "citation": "Jenkins DG, Ohyama L, Lopez-Borghesi F, Hart JD, Bogata-Gregory JD, **Rautsaw RM**, Roldan VC, Guilfoyle K, Jarvis A, Loch J, Mercier KP, Myers O, Shaw R, Volk D, Bard AM. 2021. Biogeography and predictors of wildlife killed on roads at peninsular Florida state parks. *Ecology and Evolution*. DOI: 10.1002/ece3.7743",
+    "pdf": "peer_review/2021-06_Jenkins_EcoEvo.pdf",
+    "doi": "10.1002/ece3.7743",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1002/ece3.7743\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1002/ece3.7743\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 13,
+    "year": 2021,
+    "badges": [],
+    "citation": "Hofmann EP, **Rautsaw RM**, Mason AJ, Strickland JL, Parkinson CL. 2021. Duvernoy's gland transcriptomics of the plains black-headed snake, *Tantilla nigriceps* (*Squamata: Colubridae*). *Toxins* 13(5):336. DOI: 10.3390/toxins13050336",
+    "pdf": "peer_review/2021-05_Hofmann_Toxins.pdf",
+    "doi": "10.3390/toxins13050336",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.3390/toxins13050336\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.3390/toxins13050336\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 12,
+    "year": 2021,
+    "badges": [],
+    "citation": "**Rautsaw RM**+, Nachtigall PG+, Ellsworth SA, Mason AJ, Rokyta DR, Parkinson CL, Junqueira-de-Azevedo ILM. 2021. ToxCodAn: a new toxin annotator and guide to venom gland transcriptomics. *Briefings in Bioinformatics*. DOI: 10.1093/bib/bbab095",
+    "pdf": "peer_review/2021-04_Nachtigall-Rautsaw_BiB.pdf",
+    "doi": "10.1093/bib/bbab095",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/bib/bbab095\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/bib/bbab095\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 11,
+    "year": 2021,
+    "badges": [],
+    "citation": "Holding ML, Strickland JL, **Rautsaw RM**, Hofmann EP, Mason AJ, Hogan MP, Nystrom GS, Ellsworth SA, Colston TJ, Borja M, Castaneda-Gaytan G, Grunwald CI, Jones JM, Freitas-de-Sousa L, Viala VL, Margres MJ, Grazziotin FG, Junqueira-de-Azevedo ILM, Moura-da-Silva AM, Hingst-Zaher E, Gibbs HL, Rokyta DR, Parkinson CL. 2021. Phylogenetically diverse diets favor more complex venoms in North American pitvipers. *PNAS* 118(17):e2015579118. DOI: 10.1073/pnas.2015579118",
+    "pdf": "peer_review/2021-04_Holding_PNAS.pdf",
+    "doi": "10.1073/pnas.2015579118",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1073/pnas.2015579118\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1073/pnas.2015579118\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 10,
+    "year": 2021,
+    "badges": [],
+    "citation": "Margres MJ, **Rautsaw RM**, Strickland JL, Mason AJ, Schramer TD, Hofmann EP, Stiers E, Ellsworth SA, Nystrom GS, Hogan MP, Bartlett DA, Colston TJ, Gilbert DM, Rokyta DR, Parkinson CL. 2021. The tiger rattlesnake genome reveals a complex genotype underlying a simple venom phenotype. *PNAS* 118(4):e2014634118. DOI: 10.1073/pnas.2014634118",
+    "pdf": "peer_review/2021-01_Margres_PNAS.pdf",
+    "doi": "10.1073/pnas.2014634118",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1073/pnas.2014634118\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1073/pnas.2014634118\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 9,
+    "year": 2021,
+    "badges": [
+      "cover article"
+    ],
+    "citation": "**Rautsaw RM**, Schramer TD*, Acuna R, Arick LN, DiMeo M, Mercier KP, Schrum M, Mason AJ, Margres MJ, Strickland JL, Parkinson CL. 2021. Genomic adaptations to salinity resist gene flow in the evolution of Floridian watersnakes. *Molecular Biology and Evolution* 38(3):745-760. DOI: 10.1093/molbev/msaa266",
+    "pdf": "peer_review/2021-03_Rautsaw_MBE.pdf",
+    "doi": "10.1093/molbev/msaa266",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/molbev/msaa266\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/molbev/msaa266\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 8,
+    "year": 2020,
+    "badges": [],
+    "citation": "Bayona-Serrano JD, Viala VL, **Rautsaw RM**, Schramer TD*, Barros G, Nishiyama Junior MY, Sousa L, Moura-da-Silva AM, Parkinson CL, Grazziotin FG, Junqueira-de-Azevedo ILM. 2020. Metalloproteinase replacement and parallel structural simplification maintain venom phenotypes in diverse groups of rear-fanged snakes. *Molecular Biology and Evolution* 37(12):3563-3575. DOI: 10.1093/molbev/msaa192",
+    "pdf": "peer_review/2020-07_Bayona-Serrano_MBE.pdf",
+    "doi": "10.1093/molbev/msaa192",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1093/molbev/msaa192\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1093/molbev/msaa192\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 7,
+    "year": 2019,
+    "badges": [
+      "cover article"
+    ],
+    "citation": "**Rautsaw RM**, Hofmann EP, Margres MJ, Holding ML, Strickland JL, Mason AJ, Rokyta DR, Parkinson CL. 2019. Intraspecific sequence variation and gene expression contribute little to venom diversity in the sidewinder rattlesnake (*Crotalus cerastes*). *Proceedings of the Royal Society B* 286(1906). DOI: 10.1098/rspb.2019.0810",
+    "pdf": "peer_review/2019-07_Rautsaw_RSPB.pdf",
+    "doi": "10.1098/rspb.2019.0810",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1098/rspb.2019.0810\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1098/rspb.2019.0810\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 6,
+    "year": 2018,
+    "badges": [],
+    "citation": "**Rautsaw RM**+, Hofmann EP+, Strickland JL, Holding ML, Hogan MP, Mason AJ, Rokyta DR, Parkinson CL. 2018. Comparative venom-gland transcriptomics and venom proteomics of four sidewinder rattlesnake (*Crotalus cerastes*) lineages reveal little differential expression despite individual variation. *Scientific Reports* 8:15534. DOI: 10.1038/s41598-018-33943-5",
+    "pdf": "peer_review/2018-10_Hofmann-Rautsaw_SciRep.pdf",
+    "doi": "10.1038/s41598-018-33943-5",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1038/s41598-018-33943-5\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41598-018-33943-5\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 5,
+    "year": 2018,
+    "badges": [],
+    "citation": "Martin SA, **Rautsaw RM**, Bolt MR, Parkinson CL, Seigel RA. 2018. Estimating the response of wildlife communities to coastal dune construction. *Ocean & Coastal Management* 161:31-36. DOI: 10.1016/j.ocecoaman.2018.04.021",
+    "pdf": "peer_review/2018-04_Martin_OceanCoastManag.pdf",
+    "doi": "10.1016/j.ocecoaman.2018.04.021",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1016/j.ocecoaman.2018.04.021\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1016/j.ocecoaman.2018.04.021\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 4,
+    "year": 2018,
+    "badges": [
+      "cover article"
+    ],
+    "citation": "**Rautsaw RM**, Martin SA, Lanctot K*, Vincent BA*, Bolt MR, Seigel RA, Parkinson CL. 2018. On the road again: assessing the use of roadsides as wildlife corridors for gopher tortoises (*Gopherus polyphemus*). *Journal of Herpetology* 52(2):136-144. DOI: 10.1670/17-013",
+    "pdf": "peer_review/2018-04_Rautsaw_JHerp.pdf",
+    "doi": "10.1670/17-013",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1670/17-013\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1670/17-013\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 3,
+    "year": 2018,
+    "badges": [
+      "best student paper"
+    ],
+    "citation": "**Rautsaw RM**, Martin SA, Vincent BA*, Lanctot K*, Bolt MR, Seigel RA, Parkinson CL. 2018. Stopped dead in their tracks: the impact of railways on gopher tortoise (*Gopherus polyphemus*) movement and behavior. *Copeia* 106(1):135-143. DOI: 10.1643/CE-17-635",
+    "pdf": "peer_review/2018-03_Rautsaw_Copeia.pdf",
+    "doi": "10.1643/CE-17-635",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1643/CE-17-635\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1643/CE-17-635\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 2,
+    "year": 2017,
+    "badges": [],
+    "citation": "Martin SA, **Rautsaw RM**, Robb F, Bolt MR, Parkinson CL, Seigel RA. 2017. Set AHDriFT: applying game cameras to drift fences for surveying herpetofauna and small mammals. *The Wildlife Society Bulletin* 41(4):804-809. DOI: 10.1002/wsb.805",
+    "pdf": "peer_review/2017-09_Martin_WSB.pdf",
+    "doi": "10.1002/wsb.805",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1002/wsb.805\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1002/wsb.805\" data-style=\"small_circle\"></div>"
+  },
+  {
+    "number": 1,
+    "year": 2017,
+    "badges": [],
+    "citation": "Martin SA, **Rautsaw RM**, Bolt MR, Parkinson CL, Seigel RA. 2017. Adapting coastal management to climate change: mitigating our shrinking shorelines. *The Journal of Wildlife Management* 81(6):982-989. DOI: 10.1002/jwmg.21275",
+    "pdf": "peer_review/2017-05_Martin_JMW.pdf",
+    "doi": "10.1002/jwmg.21275",
+    "altmetric_html": "<div data-badge-popover=\"right\" data-badge-type=\"donut\" data-doi=\"10.1002/jwmg.21275\" data-condensed=\"true\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"></div>",
+    "dimensions_html": "<div class=\"__dimensions_badge_embed__\" data-doi=\"10.1002/jwmg.21275\" data-style=\"small_circle\"></div>"
+  }
+]

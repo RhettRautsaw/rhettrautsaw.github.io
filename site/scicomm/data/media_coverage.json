@@ -1,0 +1,146 @@
+[
+  {
+    "year": 2022,
+    "topic": "VenomMaps",
+    "coverage": "Where are the venomous snakes? An app created by a Clemson scientist can tell you",
+    "link": "images/media_coverage/2022-08-22_Clemson-News_VenomMaps.pdf",
+    "outlet": "Clemson News",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2022,
+    "topic": "VenomMaps",
+    "coverage": "Clemson grad creates VenomMaps to learn about venomous snakes",
+    "link": "images/media_coverage/2022-08-22_WLTX-News19_VenomMaps.pdf",
+    "outlet": "WLTX News 19",
+    "video_link": "images/media_coverage/2022-08-22_WLTX-News19_VenomMaps.mov",
+    "video_label": "View video"
+  },
+  {
+    "year": 2022,
+    "topic": "VenomMaps",
+    "coverage": "WIS News 10 coverage of VenomMaps",
+    "link": "images/media_coverage/2022-08-22_WIS-News10_VenomMaps.pdf",
+    "outlet": "WIS News 10",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2022,
+    "topic": "Biology PhD Stipends",
+    "coverage": "PhD students face cash crisis with wages that do not cover living costs",
+    "link": "images/media_coverage/2022-05-23_Nature-Stipends.pdf",
+    "outlet": "*Nature*",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2022,
+    "topic": "Biology PhD Stipends",
+    "coverage": "PhD students demand wage increases amid rising cost of living",
+    "link": "images/media_coverage/2022-05-26_Science_Stipends.pdf",
+    "outlet": "*Science*",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2022,
+    "topic": "Biology PhD Stipends",
+    "coverage": "Give all PhD scholars a living wage now: The cost-of-living crisis is a fundamental threat for PhD scholars and early-career researchers. They need to be paid properly.",
+    "link": "images/media_coverage/2022-11-02_Nature-Stipends.pdf",
+    "outlet": "*Nature*",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2022,
+    "topic": "Biology PhD Stipends",
+    "coverage": "The Scientific Workforce in 2022: Cost-of-living crises, labour shortages and the impact of global politics were some of the challenges faced by scientists this year.",
+    "link": "images/media_coverage/2022-12-14_Nature-Stipends.pdf",
+    "outlet": "*Nature*",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2022,
+    "topic": "Clemson Awards",
+    "coverage": "Top students honored in the College of Science",
+    "link": "images/media_coverage/2022-04-13_Clemson-News_COS-Awards.pdf",
+    "outlet": "Clemson News",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+	"year": 2019,
+	"topic": "BioOne Ambassador",
+	"coverage": "BioOne Ambassador Award 2019 winners",
+	"link": "images/media_coverage/2019-05-06_BioOne-Ambassadors.pdf",
+	"outlet": "BioOne",
+	"video_link": "",
+	"video_label": ""
+  },
+  {
+	"year": 2019,
+	"topic": "BioOne Ambassador",
+	"coverage": "BioOne Meet the Winners: Rhett M. Rautsaw",
+	"link": "images/media_coverage/2019-05-06_BioOne-MeetRautsaw.pdf",
+	"outlet": "BioOne",
+	"video_link": "",
+	"video_label": ""
+  },
+  {
+	  "year": 2019,
+	  "topic": "BioOne Ambassador",
+	  "coverage": "Clemson student 1 of 5 researchers worldwide recognized for communicating about their work",
+	  "link": "images/media_coverage/2019-05-06_Clemson-News_BioOne.pdf",
+	  "outlet": "Clemson University College of Sciences",
+	  "video_link": "",
+	  "video_label": ""
+  },
+  {
+	  "year": 2019,
+	  "topic": "BioOne Ambassador",
+	  "coverage": "Trapped Tortoise Research Earns Award For Alumnus",
+	  "link": "images/media_coverage/2019-07-17_UCF-COSNEWS_BioOne.pdf",
+	  "outlet": "University of Central Florida College of Sciences",
+	  "video_link": "",
+	  "video_label": ""
+	},
+	{
+		"year": 2019,
+		"topic": "BioOne Ambassador",
+		"coverage": "Rautsaw wins BioOne Award",
+		"link": "images/media_coverage/2019-05_EarlyBird-BioOne.pdf",
+		"outlet": "The Early Bird",
+		"video_link": "",
+		"video_label": ""
+	},
+	{
+	  "year": 2020,
+	  "topic": "BioOne Ambassador",
+	  "coverage": "BioOne Ambassador Award: catching up with Rhett Rautsaw",
+	  "link": "images/media_coverage/2019-05-06_BioOne-MeetRautsaw.pdf",
+	  "outlet": "BioOne",
+	  "video_link": "",
+	  "video_label": ""
+	},
+  {
+    "year": 2018,
+    "topic": "Student Research Recognition",
+    "coverage": "Sigma Xi 2018 Student Research Showcase",
+    "link": "images/media_coverage/2018_SigmaXi_Showcase.pdf",
+    "outlet": "Sigma Xi",
+    "video_link": "",
+    "video_label": ""
+  },
+  {
+    "year": 2017,
+    "topic": "Student Research Recognition",
+    "coverage": "A Wild Win for UCF Biology Student",
+    "link": "images/media_coverage/2017-01-18_UCF-COSNEWS_GTC.pdf",
+    "outlet": "University of Central Florida College of Sciences",
+    "video_link": "",
+    "video_label": ""
+  }
+]
